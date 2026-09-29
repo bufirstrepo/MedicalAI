@@ -1,12 +1,12 @@
 # MedicalAI
 
-A medical AI assistant designed to run fully local \u2014 no cloud required.
+A medical AI assistant designed to run fully local — no cloud required.
 
 ## Principles
 
-- **Local-first** \u2014 inference happens on your own hardware; sensitive data never has to leave the building
-- **Auditability** \u2014 tamper-evident logging of every interaction
-- **Voice-driven** \u2014 spoken commands for hands-busy environments
+- **Local-first** — inference happens on your own hardware; sensitive data never has to leave the building
+- **Auditability** — tamper-evident logging of every interaction
+- **Voice-driven** — spoken commands for hands-busy environments
 
 ## Status
 
